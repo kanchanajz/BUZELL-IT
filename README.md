@@ -1,2 +1,2 @@
-# BUZELL-IT
-BUZELL IT - Online Advertising Agency
+# Power Zone Fitness Centre
+Power Zone - Online Webapplication for Gymcentre
